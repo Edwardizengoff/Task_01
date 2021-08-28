@@ -1,0 +1,5 @@
+Edit Report Screen
+1. After Clicking the title the title text need to go down (like the Description text) to show the full text.
+Edit Categories
+1. Numbering of Categories (1,2 etc)
+2. Text Design fix (The diffrent Categories merge one into the other).
